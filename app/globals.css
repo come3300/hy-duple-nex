@@ -1045,7 +1045,7 @@ img {
 }
 
 .conceptEditorial {
-  background: #30302f;
+  background: #f7f3e8;
   padding: clamp(28px, 5vw, 64px) 0;
 }
 
@@ -1056,7 +1056,7 @@ img {
 .conceptEditorial .conceptArchive,
 .conceptEditorial .conceptNews,
 .conceptEditorial .conceptFooter {
-  background: #fbfcf8;
+  background: #f7f3e8;
   margin-left: auto;
   margin-right: auto;
   width: min(1120px, calc(100% - 48px));
@@ -1082,11 +1082,20 @@ img {
 }
 
 .conceptVertical {
-  background: #eeeeec;
+  background: #f7f3e8;
+}
+
+.conceptVertical .conceptNav,
+.conceptVertical .conceptHero,
+.conceptVertical .conceptAbout,
+.conceptVertical .conceptSplit,
+.conceptVertical .conceptArchive,
+.conceptVertical .conceptNews,
+.conceptVertical .conceptFooter {
+  background: #f7f3e8;
 }
 
 .conceptVertical .conceptHero {
-  background: #fbfcf8;
   align-items: start;
   grid-template-columns: minmax(0, 1fr) 320px;
   max-width: 980px;
