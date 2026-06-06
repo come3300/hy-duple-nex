@@ -1,0 +1,36 @@
+<svg width="1440" height="2400" viewBox="0 0 1440 2400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="2400" fill="#EEEEEC"/>
+  <rect x="250" y="90" width="760" height="2200" fill="#FBFCF8"/>
+  <rect x="1010" y="90" width="260" height="1600" fill="#D9E0DC"/>
+  <text x="300" y="168" fill="#070908" font-family="Georgia" font-size="12">H&amp;Y DUPLE ARCHIVE</text>
+  <text x="300" y="410" fill="#070908" font-family="Georgia" font-size="44">Yamasuso</text>
+  <text x="510" y="410" fill="#8A8F8B" font-family="Georgia" font-size="16">2026-2031</text>
+  <text x="300" y="580" fill="#070908" font-family="Hiragino Sans" font-size="14">Size</text>
+  <text x="300" y="612" fill="#070908" font-family="Georgia" font-size="16">2,076 x 4,578</text>
+  <text x="560" y="580" fill="#070908" font-family="Hiragino Sans" font-size="14">Concept</text>
+  <text x="560" y="612" fill="#070908" font-family="Hiragino Sans" font-size="15">A quiet archive of local business,</text>
+  <text x="560" y="640" fill="#070908" font-family="Hiragino Sans" font-size="15">company history, and daily infrastructure.</text>
+
+  <rect x="360" y="760" width="540" height="250" fill="#C9D3CF"/>
+  <text x="510" y="900" fill="#070908" font-family="Georgia" font-size="24">CITYSCAPE IMAGE</text>
+  <text x="620" y="1170" fill="#070908" font-family="Hiragino Sans" font-size="15">事業は大きく語りすぎず、</text>
+  <text x="620" y="1200" fill="#070908" font-family="Hiragino Sans" font-size="15">地域の生活に寄り添う記録として見せる。</text>
+
+  <rect x="360" y="1350" width="540" height="280" fill="#DDE6E2"/>
+  <text x="520" y="1508" fill="#070908" font-family="Georgia" font-size="24">TEXTURE / SIGN</text>
+
+  <text x="300" y="1840" fill="#070908" font-family="Hiragino Sans" font-size="14">Credits</text>
+  <text x="520" y="1840" fill="#A7ACA8" font-family="Hiragino Sans" font-size="14">Design</text>
+  <text x="730" y="1840" fill="#070908" font-family="Hiragino Sans" font-size="14">H&amp;Y duple</text>
+  <path d="M300 1940H900" stroke="#D2D7D3"/>
+  <text x="300" y="2010" fill="#070908" font-family="Georgia" font-size="20">Business</text>
+  <text x="520" y="2010" fill="#070908" font-family="Hiragino Sans" font-size="15">Laundry / Food / Real Estate</text>
+  <path d="M300 2080H900" stroke="#D2D7D3"/>
+  <text x="300" y="2150" fill="#070908" font-family="Georgia" font-size="20">History</text>
+  <text x="520" y="2150" fill="#070908" font-family="Hiragino Sans" font-size="15">1970 - 2021</text>
+
+  <text x="1090" y="182" fill="#070908" font-family="Georgia" font-size="12">NEXT WORK</text>
+  <rect x="1080" y="1840" width="110" height="110" fill="#193A2B"/>
+  <text x="1080" y="2060" fill="#070908" font-family="Georgia" font-size="18">Kawara</text>
+  <text x="1080" y="2094" fill="#070908" font-family="Georgia" font-size="13">View</text>
+</svg>

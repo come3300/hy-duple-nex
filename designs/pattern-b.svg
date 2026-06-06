@@ -1,0 +1,45 @@
+<svg width="1440" height="2200" viewBox="0 0 1440 2200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="2200" fill="#070908"/>
+  <text x="112" y="82" fill="#FFFFFF" font-family="Georgia" font-size="30">H&amp;Y duple</text>
+  <text x="1000" y="80" fill="#FFFFFF" font-family="Georgia" font-size="18">Business</text>
+  <text x="1110" y="80" fill="#FFFFFF" font-family="Georgia" font-size="18">Company</text>
+  <text x="1224" y="80" fill="#FFFFFF" font-family="Georgia" font-size="18">History</text>
+  <text x="1320" y="80" fill="#FFFFFF" font-family="Georgia" font-size="18">News</text>
+
+  <rect x="112" y="150" width="805" height="690" fill="#151817"/>
+  <text x="408" y="500" fill="#DDE7DF" font-family="Georgia" font-size="30">Hero sign photo</text>
+  <rect x="832" y="500" width="488" height="340" fill="#FBFCF8"/>
+  <text x="888" y="574" fill="#007048" font-family="Georgia" font-size="18">H&amp;Y DUPLE</text>
+  <text x="884" y="688" fill="#070908" font-family="Georgia" font-size="76">Operate the</text>
+  <text x="884" y="778" fill="#070908" font-family="Georgia" font-size="76">ordinary.</text>
+
+  <g>
+    <rect x="0" y="1030" width="480" height="530" fill="#16271F"/>
+    <text x="42" y="1405" fill="#7FD0A5" font-family="Georgia" font-size="22">Laundry &amp; Car Care</text>
+    <text x="42" y="1460" fill="#FFFFFF" font-family="Yu Mincho, serif" font-size="36">ランドリー・洗車複合施設</text>
+  </g>
+  <g>
+    <rect x="480" y="1030" width="480" height="530" fill="#0D1712"/>
+    <text x="522" y="1405" fill="#7FD0A5" font-family="Georgia" font-size="22">Food &amp; Fermentation</text>
+    <text x="522" y="1460" fill="#FFFFFF" font-family="Yu Mincho, serif" font-size="36">飲食店経営</text>
+  </g>
+  <g>
+    <rect x="960" y="1030" width="480" height="530" fill="#16271F"/>
+    <text x="1002" y="1405" fill="#7FD0A5" font-family="Georgia" font-size="22">Real Estate</text>
+    <text x="1002" y="1460" fill="#FFFFFF" font-family="Yu Mincho, serif" font-size="36">不動産賃貸業</text>
+  </g>
+
+  <rect x="0" y="1560" width="1440" height="640" fill="#FBFCF8"/>
+  <text x="112" y="1690" fill="#007048" font-family="Georgia" font-size="20">History</text>
+  <text x="112" y="1780" fill="#070908" font-family="Yu Mincho, serif" font-size="72">1970から続く、</text>
+  <text x="112" y="1870" fill="#070908" font-family="Yu Mincho, serif" font-size="72">地域事業の系譜。</text>
+  <path d="M760 1680H1328" stroke="#CED8D0"/>
+  <text x="760" y="1740" fill="#007048" font-family="Georgia" font-size="30">1970</text>
+  <text x="900" y="1740" fill="#070908" font-family="Hiragino Sans" font-size="24">花沢石油株式会社を設立</text>
+  <path d="M760 1810H1328" stroke="#CED8D0"/>
+  <text x="760" y="1870" fill="#007048" font-family="Georgia" font-size="30">2009</text>
+  <text x="900" y="1870" fill="#070908" font-family="Hiragino Sans" font-size="24">不動産賃貸業を開始</text>
+  <path d="M760 1940H1328" stroke="#CED8D0"/>
+  <text x="760" y="2000" fill="#007048" font-family="Georgia" font-size="30">2021</text>
+  <text x="900" y="2000" fill="#070908" font-family="Hiragino Sans" font-size="24">株式会社H&amp;Y dupleとして社名変更</text>
+</svg>

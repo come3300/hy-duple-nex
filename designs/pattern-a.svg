@@ -1,0 +1,76 @@
+<svg width="1440" height="2200" viewBox="0 0 1440 2200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="2200" fill="#FBFCF8"/>
+  <g opacity="0.5">
+    <path d="M0 160H1440" stroke="#DDE7DF"/>
+    <path d="M0 320H1440" stroke="#DDE7DF"/>
+    <path d="M0 480H1440" stroke="#DDE7DF"/>
+    <path d="M0 640H1440" stroke="#DDE7DF"/>
+    <path d="M0 800H1440" stroke="#DDE7DF"/>
+    <path d="M0 960H1440" stroke="#DDE7DF"/>
+    <path d="M0 1120H1440" stroke="#DDE7DF"/>
+    <path d="M0 1280H1440" stroke="#DDE7DF"/>
+    <path d="M0 1440H1440" stroke="#DDE7DF"/>
+    <path d="M0 1600H1440" stroke="#DDE7DF"/>
+    <path d="M0 1760H1440" stroke="#DDE7DF"/>
+    <path d="M0 1920H1440" stroke="#DDE7DF"/>
+    <path d="M0 2080H1440" stroke="#DDE7DF"/>
+  </g>
+  <text x="112" y="82" fill="#070908" font-family="Georgia" font-size="30">H&amp;Y duple</text>
+  <text x="1000" y="80" fill="#070908" font-family="Georgia" font-size="18">Business</text>
+  <text x="1110" y="80" fill="#070908" font-family="Georgia" font-size="18">Company</text>
+  <text x="1224" y="80" fill="#070908" font-family="Georgia" font-size="18">History</text>
+  <text x="1320" y="80" fill="#070908" font-family="Georgia" font-size="18">News</text>
+
+  <text x="112" y="230" fill="#007048" font-family="Georgia" font-size="18">OSAKA / SINCE 1970 / H&amp;Y DUPLE</text>
+  <text x="108" y="350" fill="#070908" font-family="Yu Mincho, serif" font-size="86">地域の余白まで、</text>
+  <text x="108" y="452" fill="#070908" font-family="Yu Mincho, serif" font-size="86">静かに整える。</text>
+  <text x="114" y="532" fill="#5F6862" font-family="Hiragino Sans" font-size="22">不動産、ランドリーと洗車の複合施設、食の事業。</text>
+  <text x="114" y="572" fill="#5F6862" font-family="Hiragino Sans" font-size="22">暮らしの近くにある事業を丁寧に運営します。</text>
+  <path d="M112 655H658" stroke="#070908"/>
+  <text x="112" y="704" fill="#007048" font-family="Georgia" font-size="18">Real estate</text>
+  <text x="300" y="704" fill="#007048" font-family="Georgia" font-size="18">Laundry &amp; car care</text>
+  <text x="548" y="704" fill="#007048" font-family="Georgia" font-size="18">Food business</text>
+
+  <rect x="762" y="150" width="560" height="690" fill="#121514"/>
+  <rect x="762" y="832" width="560" height="8" fill="#007048"/>
+  <text x="940" y="500" fill="#DDE7DF" font-family="Georgia" font-size="28">Hero sign photo</text>
+
+  <path d="M112 990H1328" stroke="#070908"/>
+  <text x="112" y="1048" fill="#007048" font-family="Georgia" font-size="20">Business</text>
+  <text x="1000" y="1056" fill="#070908" font-family="Yu Mincho, serif" font-size="64">事業内容</text>
+
+  <g>
+    <path d="M112 1160H456" stroke="#070908"/>
+    <text x="112" y="1204" fill="#007048" font-family="Georgia" font-size="20">01</text>
+    <rect x="112" y="1240" width="344" height="390" fill="#DDE7DF"/>
+    <text x="205" y="1445" fill="#007048" font-family="Georgia" font-size="26">Laundry</text>
+    <text x="112" y="1694" fill="#070908" font-family="Georgia" font-size="31">Laundry &amp; Car Care</text>
+    <text x="112" y="1740" fill="#007048" font-family="Hiragino Sans" font-size="22">ランドリー・洗車複合施設</text>
+  </g>
+  <g>
+    <path d="M548 1160H892" stroke="#070908"/>
+    <text x="548" y="1204" fill="#007048" font-family="Georgia" font-size="20">02</text>
+    <rect x="548" y="1240" width="344" height="390" fill="#EAF0E5"/>
+    <text x="662" y="1445" fill="#007048" font-family="Georgia" font-size="26">Food</text>
+    <text x="548" y="1694" fill="#070908" font-family="Georgia" font-size="31">Food &amp; Fermentation</text>
+    <text x="548" y="1740" fill="#007048" font-family="Hiragino Sans" font-size="22">飲食店経営</text>
+  </g>
+  <g>
+    <path d="M984 1160H1328" stroke="#070908"/>
+    <text x="984" y="1204" fill="#007048" font-family="Georgia" font-size="20">03</text>
+    <rect x="984" y="1240" width="344" height="390" fill="#DDE7DF"/>
+    <text x="1086" y="1445" fill="#007048" font-family="Georgia" font-size="26">Estate</text>
+    <text x="984" y="1694" fill="#070908" font-family="Georgia" font-size="31">Real Estate</text>
+    <text x="984" y="1740" fill="#007048" font-family="Hiragino Sans" font-size="22">不動産賃貸業</text>
+  </g>
+
+  <path d="M112 1880H1328" stroke="#CED8D0"/>
+  <text x="112" y="1938" fill="#007048" font-family="Georgia" font-size="20">Company</text>
+  <text x="112" y="2020" fill="#070908" font-family="Yu Mincho, serif" font-size="64">会社概要</text>
+  <path d="M520 1914H1328" stroke="#CED8D0"/>
+  <text x="520" y="1974" fill="#007048" font-family="Georgia" font-size="18">Company name</text>
+  <text x="760" y="1974" fill="#070908" font-family="Hiragino Sans" font-size="26">株式会社H&amp;Y duple</text>
+  <path d="M520 2040H1328" stroke="#CED8D0"/>
+  <text x="520" y="2100" fill="#007048" font-family="Georgia" font-size="18">Founded</text>
+  <text x="760" y="2100" fill="#070908" font-family="Hiragino Sans" font-size="26">1970年5月</text>
+</svg>

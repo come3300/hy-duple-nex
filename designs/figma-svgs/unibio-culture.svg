@@ -1,0 +1,42 @@
+<svg width="1440" height="2300" viewBox="0 0 1440 2300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="2300" fill="#F7F3E8"/>
+  <text x="90" y="76" fill="#070908" font-family="Georgia" font-size="28">H&amp;Y duple</text>
+  <text x="1110" y="74" fill="#070908" font-family="Georgia" font-size="18">Story</text>
+  <text x="1190" y="74" fill="#070908" font-family="Georgia" font-size="18">Category</text>
+  <text x="1320" y="74" fill="#070908" font-family="Georgia" font-size="18">News</text>
+
+  <rect x="90" y="150" width="560" height="650" fill="#E2E9DF"/>
+  <text x="246" y="490" fill="#007048" font-family="Georgia" font-size="26">FOOD / CULTURE PHOTO</text>
+  <text x="780" y="150" fill="#007048" font-family="Georgia" font-size="18">REFERENCE 02 / CULTURE STORE</text>
+  <text x="1015" y="190" fill="#070908" font-family="Yu Mincho, serif" font-size="72" writing-mode="tb">ともに、にぎやかな地域文化を。</text>
+  <text x="780" y="550" fill="#070908" font-family="Hiragino Sans" font-size="22">縦書きに近い余白、カテゴリカード、</text>
+  <text x="780" y="590" fill="#070908" font-family="Hiragino Sans" font-size="22">読みもののあるEC風トップ。</text>
+
+  <text x="90" y="970" fill="#007048" font-family="Georgia" font-size="18">CATEGORY</text>
+  <g>
+    <rect x="90" y="1030" width="390" height="420" fill="#FBFCF8"/>
+    <rect x="120" y="1060" width="330" height="240" fill="#DCE5DF"/>
+    <text x="120" y="1370" fill="#070908" font-family="Yu Mincho, serif" font-size="34">ランドリー・洗車</text>
+    <text x="120" y="1415" fill="#007048" font-family="Georgia" font-size="16">Laundry &amp; Car Care</text>
+  </g>
+  <g>
+    <rect x="525" y="1030" width="390" height="420" fill="#FBFCF8"/>
+    <rect x="555" y="1060" width="330" height="240" fill="#DCE5DF"/>
+    <text x="555" y="1370" fill="#070908" font-family="Yu Mincho, serif" font-size="34">飲食店経営</text>
+    <text x="555" y="1415" fill="#007048" font-family="Georgia" font-size="16">Food &amp; Fermentation</text>
+  </g>
+  <g>
+    <rect x="960" y="1030" width="390" height="420" fill="#FBFCF8"/>
+    <rect x="990" y="1060" width="330" height="240" fill="#DCE5DF"/>
+    <text x="990" y="1370" fill="#070908" font-family="Yu Mincho, serif" font-size="34">不動産賃貸業</text>
+    <text x="990" y="1415" fill="#007048" font-family="Georgia" font-size="16">Real Estate</text>
+  </g>
+
+  <rect x="90" y="1630" width="1260" height="390" fill="#FBFCF8"/>
+  <text x="130" y="1720" fill="#007048" font-family="Georgia" font-size="18">JOURNAL</text>
+  <text x="130" y="1810" fill="#070908" font-family="Yu Mincho, serif" font-size="56">地域に根ざす事業の読みもの。</text>
+  <text x="132" y="1885" fill="#070908" font-family="Hiragino Sans" font-size="20">食、暮らし、住まいを横断して、H&amp;Y dupleの活動を届ける。</text>
+  <path d="M130 1940H1310" stroke="#DADDD3"/>
+  <text x="130" y="1988" fill="#007048" font-family="Georgia" font-size="16">2022.01.20</text>
+  <text x="310" y="1988" fill="#070908" font-family="Hiragino Sans" font-size="22">発酵料理をメインとした飲食店をオープン</text>
+</svg>
