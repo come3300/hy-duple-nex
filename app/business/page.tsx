@@ -22,7 +22,7 @@ export default function BusinessPage() {
   return (
     <main className="site patternA rootSubPage">
       <RootPageNav />
-      <section className="rootPageHero">
+      <section className="rootPageHero rootBusinessHero">
         <p className="kicker">Business</p>
         <h1>事業内容</h1>
       </section>
