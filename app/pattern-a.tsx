@@ -1,8 +1,6 @@
-import { businesses, company, getNews, history, navItems } from "@/lib/site-data";
+import { businesses, company, history, navItems } from "@/lib/site-data";
 
-export async function PatternA() {
-  const news = await getNews();
-
+export function PatternA() {
   return (
     <main className="site patternA">
       <header className="aHero">
@@ -84,25 +82,6 @@ export async function PatternA() {
             <article key={`${year}-${text}`}>
               <span>{year}</span>
               <p>{text}</p>
-            </article>
-          ))}
-        </div>
-      </section>
-
-      <section id="news" className="section newsSection">
-        <div className="sectionHead">
-          <p>News</p>
-          <h2>ニュース</h2>
-        </div>
-        <div className="newsList">
-          {news.map((item) => (
-            <article key={item.id}>
-              <div>
-                <time>{item.date}</time>
-                <span>{item.category}</span>
-              </div>
-              <h3>{item.title}</h3>
-              <p>{item.excerpt}</p>
             </article>
           ))}
         </div>

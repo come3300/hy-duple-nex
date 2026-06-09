@@ -71,7 +71,7 @@ export default async function ConceptPage({
       <nav className="conceptNav">
         <Link href="/concepts">All Concepts</Link>
         <span>H&Y duple</span>
-        <Link href="/">Current A</Link>
+        <Link href={`/concepts/${concept.slug}/business`}>Company</Link>
       </nav>
 
       <section className="conceptHero">
@@ -150,11 +150,13 @@ export default async function ConceptPage({
         </div>
         <div>
           {shared.news.map((item) => (
-            <article key={item.id}>
-              <time>{item.date}</time>
-              <span>{item.category}</span>
-              <h3>{item.title}</h3>
-            </article>
+            <Link href={`/concepts/${concept.slug}/news/wabi-sabi-open`} key={item.id}>
+              <article>
+                <time>{item.date}</time>
+                <span>{item.category}</span>
+                <h3>{item.title}</h3>
+              </article>
+            </Link>
           ))}
         </div>
       </section>

@@ -15,10 +15,9 @@ export type BusinessItem = {
 };
 
 export const navItems = [
-  { label: "Business", href: "#business" },
-  { label: "Company", href: "#company" },
-  { label: "History", href: "#history" },
-  { label: "News", href: "#news" }
+  { label: "Business", href: "/business" },
+  { label: "Company", href: "/company" },
+  { label: "History", href: "/company#history" }
 ];
 
 export const businesses: BusinessItem[] = [
