@@ -8,6 +8,12 @@ export function PatternA() {
           <a className="brand" href="#">
             <img src="/images/logo.png" alt="H&Y duple" />
           </a>
+          <input className="navToggle" id="top-nav-toggle" type="checkbox" />
+          <label className="navMenuButton" htmlFor="top-nav-toggle" aria-label="メニューを開く">
+            <span />
+            <span />
+            <span />
+          </label>
           <div className="navLinks">
             {navItems.map((item) => (
               <a href={item.href} key={item.href}>

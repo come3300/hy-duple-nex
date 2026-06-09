@@ -89,6 +89,11 @@ img {
   border-color: currentColor;
 }
 
+.navToggle,
+.navMenuButton {
+  display: none;
+}
+
 .kicker {
   color: var(--green);
   font-family: Georgia, "Times New Roman", serif;
@@ -805,16 +810,108 @@ img {
   }
 }
 
-@media (max-width: 680px) {
+@media (max-width: 768px) {
   .nav {
-    align-items: flex-start;
-    flex-direction: column;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
     padding: 22px 18px;
   }
 
   .navLinks {
+    display: none;
+    flex-basis: 100%;
+    flex-direction: column;
+    gap: 0;
+    padding-top: 22px;
+    width: 100%;
+  }
+
+  .navLinks a {
+    border-bottom: 1px solid var(--line);
+    padding: 16px 0;
+  }
+
+  .navToggle:checked ~ .navLinks {
+    display: flex;
+  }
+
+  .navMenuButton {
+    align-items: center;
+    border: 1px solid var(--line);
+    display: inline-flex;
+    flex-direction: column;
+    gap: 5px;
+    height: 42px;
+    justify-content: center;
+    width: 42px;
+  }
+
+  .navMenuButton span {
+    background: var(--black);
+    display: block;
+    height: 1px;
+    width: 18px;
+  }
+
+  .brand img {
+    height: 34px;
+  }
+
+  .footer {
+    align-items: center;
+    flex-direction: column;
+    gap: 24px;
+    text-align: center;
+  }
+
+  .footer img {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 680px) {
+  .nav {
+    align-items: center;
+    flex-direction: row;
     flex-wrap: wrap;
-    gap: 16px;
+    padding: 22px 18px;
+  }
+
+  .navLinks {
+    display: none;
+    flex-basis: 100%;
+    flex-direction: column;
+    gap: 0;
+    padding-top: 22px;
+    width: 100%;
+  }
+
+  .navLinks a {
+    border-bottom: 1px solid var(--line);
+    padding: 16px 0;
+  }
+
+  .navToggle:checked ~ .navLinks {
+    display: flex;
+  }
+
+  .navMenuButton {
+    align-items: center;
+    border: 1px solid var(--line);
+    display: inline-flex;
+    flex-direction: column;
+    gap: 5px;
+    height: 42px;
+    justify-content: center;
+    width: 42px;
+  }
+
+  .navMenuButton span {
+    background: var(--black);
+    display: block;
+    height: 1px;
+    width: 18px;
   }
 
   .brand img {
@@ -856,9 +953,14 @@ img {
   }
 
   .footer {
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
     gap: 24px;
+    text-align: center;
+  }
+
+  .footer img {
+    margin: 0 auto;
   }
 }
 

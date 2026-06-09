@@ -8,6 +8,12 @@ export function RootPageNav() {
       <Link className="brand" href="/">
         <img src="/images/logo.png" alt="H&Y duple" />
       </Link>
+      <input className="navToggle" id="root-nav-toggle" type="checkbox" />
+      <label className="navMenuButton" htmlFor="root-nav-toggle" aria-label="メニューを開く">
+        <span />
+        <span />
+        <span />
+      </label>
       <div className="navLinks">
         {navItems.map((item) => (
           <Link href={item.href} key={item.href}>

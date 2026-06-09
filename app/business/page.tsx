@@ -3,7 +3,7 @@ import { RootPageFooter, RootPageNav } from "../root-page-shell";
 const originalBusinessGroups = [
   {
     id: "laundry",
-    items: ["ランドリー&\n戦車の複合施設の運営"],
+    items: ["ランドリー&\n洗車の複合施設の運営"],
     image: "/images/laundry.jpeg"
   },
   {
