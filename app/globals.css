@@ -131,25 +131,6 @@ img {
   margin: 0;
 }
 
-.floatingSwitch {
-  background: var(--black);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 999px;
-  bottom: 22px;
-  color: white;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 13px;
-  padding: 13px 18px;
-  position: fixed;
-  right: 22px;
-  z-index: 80;
-}
-
-.floatingSwitchLight {
-  background: white;
-  color: var(--black);
-}
-
 .patternA {
   background:
     linear-gradient(90deg, rgba(0, 112, 72, 0.08) 0 1px, transparent 1px 100%) 0 0 / 84px 84px,
