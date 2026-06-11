@@ -142,7 +142,7 @@ img {
 }
 
 .aHeroGrid {
-  align-items: end;
+  align-items: center;
   display: grid;
   gap: 46px;
   grid-template-columns: minmax(0, 0.76fr) minmax(420px, 1fr);
@@ -194,7 +194,6 @@ img {
 
 .aHeroImage {
   background: var(--black);
-  min-height: 660px;
   overflow: hidden;
   position: relative;
 }
@@ -210,10 +209,9 @@ img {
 }
 
 .aHeroImage img {
-  height: 100%;
-  object-fit: cover;
-  object-position: 56% center;
+  display: block;
   width: 100%;
+  height: auto;
 }
 
 .businessGrid {
