@@ -27,16 +27,18 @@ export default function CompanyPage() {
           <h2>沿革</h2>
         </div>
         <div className="timeline rootTimeline">
-          {originalHistoryRows.map((row) => {
-            const [date, ...text] = row.split(" ");
-
-            return (
-              <article key={row}>
-                <span>{date}</span>
-                <p>{text.join(" ")}</p>
-              </article>
-            );
-          })}
+          {Object.entries(
+            originalHistoryRows.reduce<Record<string, string[]>>((acc, row) => {
+              const [date, ...text] = row.split(" ");
+              (acc[date] ??= []).push(text.join(" "));
+              return acc;
+            }, {})
+          ).map(([date, texts]) => (
+            <article key={date}>
+              <span>{date}</span>
+              <div>{texts.map((t) => <p key={t}>{t}</p>)}</div>
+            </article>
+          ))}
         </div>
       </section>
 

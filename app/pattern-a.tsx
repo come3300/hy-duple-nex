@@ -33,7 +33,7 @@ export function PatternA() {
             </p>
             <div className="heroMeta">
               <span>Real estate</span>
-              <span>Laundry & car care</span>
+              <span>Laundry & car wash</span>
               <span>Food business</span>
             </div>
           </div>
@@ -84,10 +84,15 @@ export function PatternA() {
           <h2>石油、店舗、不動産、そしてH&Y dupleへ。</h2>
         </div>
         <div className="timeline">
-          {history.map(([year, text]) => (
-            <article key={`${year}-${text}`}>
+          {Object.entries(
+            history.reduce<Record<string, string[]>>((acc, [year, text]) => {
+              (acc[year] ??= []).push(text);
+              return acc;
+            }, {})
+          ).map(([year, texts]) => (
+            <article key={year}>
               <span>{year}</span>
-              <p>{text}</p>
+              <div>{texts.map((t) => <p key={t}>{t}</p>)}</div>
             </article>
           ))}
         </div>

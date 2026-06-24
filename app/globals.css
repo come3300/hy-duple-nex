@@ -765,7 +765,6 @@ img {
     grid-template-columns: 1fr;
   }
 
-  .aHeroImage,
   .bHeroPhoto {
     min-height: 460px;
   }

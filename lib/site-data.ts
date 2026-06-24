@@ -23,7 +23,7 @@ export const navItems = [
 export const businesses: BusinessItem[] = [
   {
     id: "laundry",
-    title: "Laundry & Car Care",
+    title: "Laundry & Car Wash",
     label: "ランドリー・洗車複合施設",
     description: "暮らしの中にある待ち時間まで心地よく整える、地域密着型の複合施設を運営。",
     image: "/images/laundry.jpeg"
@@ -39,7 +39,7 @@ export const businesses: BusinessItem[] = [
     id: "real-estate",
     title: "Real Estate",
     label: "不動産賃貸業",
-    description: "堺、中百舌鳥、尼崎、東京など、暮らしの基盤となる収益物件を長期視点で運営。",
+    description: "大阪、兵庫、東京など、暮らしの基盤となる収益物件を長期視点で運営。",
     image: "/images/real-estate.jpg"
   }
 ];
@@ -57,11 +57,16 @@ export const company = [
 export const history = [
   ["1970", "花澤満寿夫が花沢石油株式会社を設立"],
   ["1973", "隣接地にドライブイン風喫茶店を開業"],
+  ["2000", "花澤良隆が専務取締役就任"],
+  ["2004", "セルフ1号店オープン"],
+  ["2009", "セブンイレブン複合店をオープン"],
   ["2009", "不動産賃貸業を開始"],
-  ["2010", "エッソエクスプレス ニュー金岡SSを開所"],
+  ["2010", "セルフ2号店オープン"],
+  ["2013", "花澤良隆が代表取締役に就任"],
+  ["2016", "セルフ3号店オープン"],
   ["2016", "尼崎市にてワンルームマンション建築"],
-  ["2019", "創業50周年を迎える"],
-  ["2020", "東京にて収益物件の運営開始"],
+  ["2019", "堺にて創業５０周年記念式典パーティーを開催"],
+  ["2021", "堺市中百舌鳥にてワンルームマンション建築"],
   ["2021", "株式会社H&Y dupleとして社名変更"]
 ];
 
